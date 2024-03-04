@@ -1,0 +1,20 @@
+.container{
+    border: 2px solid red;
+    background-color: antiquewhite;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box{
+    background-color: palevioletred;
+    font-weight: bold;
+    border: 2px solid maroon;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+
+}
